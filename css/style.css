@@ -1,0 +1,24 @@
+body {
+  background-color: #f6f6f6;
+}
+
+#right_pane {
+  background-color: #fff;
+}
+
+img {
+   max-width: 100%;
+   height: auto;
+   margin: auto;
+ }
+
+.panel-body img {
+  margin: auto;
+  float:right;
+  padding: 4px;
+}
+
+#feature_pic img {
+  float:none;
+  margin:0 25%;
+}
